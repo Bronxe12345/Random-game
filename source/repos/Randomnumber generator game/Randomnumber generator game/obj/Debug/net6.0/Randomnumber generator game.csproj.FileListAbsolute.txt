@@ -1,0 +1,15 @@
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\bin\Debug\net6.0\Randomnumber generator game.exe
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\bin\Debug\net6.0\Randomnumber generator game.deps.json
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\bin\Debug\net6.0\Randomnumber generator game.runtimeconfig.json
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\bin\Debug\net6.0\Randomnumber generator game.dll
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\bin\Debug\net6.0\Randomnumber generator game.pdb
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\obj\Debug\net6.0\Randomnumber generator game.csproj.AssemblyReference.cache
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\obj\Debug\net6.0\Randomnumber generator game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\obj\Debug\net6.0\Randomnumber generator game.AssemblyInfoInputs.cache
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\obj\Debug\net6.0\Randomnumber generator game.AssemblyInfo.cs
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\obj\Debug\net6.0\Randomnumber generator game.csproj.CoreCompileInputs.cache
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\obj\Debug\net6.0\Randomnumber generator game.dll
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\obj\Debug\net6.0\refint\Randomnumber generator game.dll
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\obj\Debug\net6.0\Randomnumber generator game.pdb
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\obj\Debug\net6.0\Randomnumber generator game.genruntimeconfig.cache
+C:\Users\Ato Brown\source\repos\Randomnumber generator game\Randomnumber generator game\obj\Debug\net6.0\ref\Randomnumber generator game.dll
